@@ -12,7 +12,22 @@
 		<div class="flex flex-col justify-center gap-5">
 			<p>Hi 👋 I am</p>
 			<p class="text-6xl font-bold underline">Abhijeet Sonar</p>
-			<p class="">A motivated software developer</p>
+			<div class="mt-3">
+				<div class="relative">
+					<p class="aaa1 font-bold text-xl absolute top-0 opacity-1">
+						a <span class="underline">mobile</span> developer
+					</p>
+					<p class="aaa2 font-bold text-xl absolute top-0 opacity-0">
+						a <span class="underline">web</span> developer
+					</p>
+					<p class="aaa3 font-bold text-xl absolute top-0 opacity-0">
+						a <span class="underline">backend</span> developer
+					</p>
+					<p class="aaa4 font-bold text-xl absolute top-0 opacity-0">
+						a <span class="underline">code</span> fanatic
+					</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
@@ -26,5 +41,36 @@
 <style>
 	#avatar {
 		background-image: url(https://vignette.wikia.nocookie.net/konosuba/images/7/7b/Aqua_Artwork_03.png/revision/latest?cb%5Cu003d20180608054657);
+	}
+
+	.aaa1 {
+		animation: switch-text 8s infinite;
+	}
+	.aaa2 {
+		animation: switch-text 8s infinite 2s;
+	}
+	.aaa3 {
+		animation: switch-text 8s infinite 4s;
+	}
+	.aaa4 {
+		animation: switch-text 8s infinite 6s;
+	}
+
+	@keyframes switch-text {
+		0% {
+			transform: translatey(15px);
+			opacity: 0;
+		}
+		20% {
+			transform: translatey(0px);
+			opacity: 1;
+		}
+		35% {
+			transform: translatey(-15px);
+			opacity: 0;
+		}
+		100% {
+			opacity: 0;
+		}
 	}
 </style>
