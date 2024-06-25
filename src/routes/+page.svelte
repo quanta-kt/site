@@ -25,8 +25,8 @@
 		},
 		{
 			name: 'e-mail',
-			username: 'abhijeet.nkt@gmail.com',
-			url: 'mailto:abhijeet.nkt@gmail.com',
+			username: 'abhijeet@qunatablob.xyz',
+			url: 'mailto:abhijeet@qunatablob.xyz',
 			bg: 'bg-yellow-600',
 			icon: 'icon-email'
 		}
