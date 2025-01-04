@@ -10,8 +10,8 @@
 			href: '#projects'
 		},
 		{
-			title: 'Blogs',
-			href: '#blogs'
+			title: 'Blog',
+			href: 'https://blog.qunatablob.xyz/'
 		}
 	];
 </script>
