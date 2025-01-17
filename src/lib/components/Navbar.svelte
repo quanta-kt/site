@@ -11,7 +11,7 @@
 		},
 		{
 			title: 'Blog',
-			href: 'https://blog.qunatablob.xyz/'
+			href: 'https://blog.qnt.moe/'
 		}
 	];
 </script>
