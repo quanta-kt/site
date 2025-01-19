@@ -6,6 +6,6 @@
 
 <style lang="postcss">
 	:global(html) {
-		font-family: 'IBM Plex Mono', monospace;
+		font-family: 'Poppins', sans-serif;
 	}
 </style>
