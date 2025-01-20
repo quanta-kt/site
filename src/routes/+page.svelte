@@ -74,7 +74,7 @@
 				I don't care about big titles and mostly only watch the kind I enjoy the most.
 				<br /><br />
 				I have also recently got fond of cats, although I have never had one (yet). I refuse to purchase
-				one for moral reasons. I intent on feeding and pet a feral.
+				one for moral reasons. I intent to feed and make a feral into a pet.
 			</p>
 		</div>
 	</div>
