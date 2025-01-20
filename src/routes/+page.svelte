@@ -70,7 +70,9 @@
 			<p class="text-slate-400">
 				Yes, I do have a life outside of computing and programming.
 				<br /><br />
-				I love wathcing anime (<i>read "Japanese cartoons"</i>) and talking about it to my friends.
+				I love watching anime
+        (<i>read "Japanese cartoons". <a class="text-yellow-100 underline" href="https://www.reddit.com/r/anime/comments/eac7d1/anime_and_cartoons_are_the_same_thing_and_heres/">Yes</a></i>)
+        and talking about it to my friends.
 				I don't care about big titles and mostly only watch the kind I enjoy the most.
 				<br /><br />
 				I have also recently got fond of cats, although I have never had one (yet). I refuse to purchase
