@@ -55,7 +55,7 @@
 				<br /><br />
 
 				I run GNU/Linux on my personal computers and like to limit programs on them to free (as in
-				"freedom") software. Although, I am not Richards Stallman so I occasionally do use
+				"freedom") software. Although, I am not Richard Stallman so I occasionally do use
 				proprietory software when neccessary.
 
 				<br /><br />
