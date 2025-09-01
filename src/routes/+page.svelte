@@ -42,43 +42,57 @@
 			</div>
 		</div>
 
-		<p class="mb-6 text-lg">A programmer with expertise in web and mobile developement</p>
-
 		<hr class="mb-8 border-dashed border-slate-500" />
 
 		<div class="grid grid-cols-1 items-baseline gap-x-5 gap-y-6 md:grid-cols-[auto,_1fr]">
 			<h3 class="text-lg font-bold">About me</h3>
 			<p class="text-slate-400">
-				I write code, professionally and occasionally for fun. I mostly work with Web and mobile app
-				developement, but often wander off to all sorts of domains.
+				I write code, professionally and occasionally for fun. At my <code
+					class="rounded-md bg-slate-800 p-1 text-yellow-100">$DAYJOB</code
+				>
+				I write web apps, mostly in React.
 
 				<br /><br />
 
-				I run GNU/Linux on my personal computers and like to limit programs on them to free (as in
-				"freedom") software. Although, I am not Richard Stallman so I occasionally do use
-				proprietory software when neccessary.
-
-				<br /><br />
-
-				I am not good at dealing with people and have moderate social anxiety. In person, you might
-				feel like I am avoiding you, but that is likely not the case. Please be patient with me, I
-				need time to get comfortable with people. I can text and e-mail confidently just fine
-				though.
+				I have recently taken a liking to low level programming, in particular, compilers.
 			</p>
 
-			<h3 class="text-lg font-bold">Hobbies</h3>
+			<h3 class="text-lg font-bold">Languages</h3>
 			<p class="text-slate-400">
-				Yes, I do have a life outside of computing and programming.
+				At my <code class="rounded-md bg-slate-800 p-1 text-yellow-100">$DAYJOB</code>, I mostly write code in TypeScript.
+				I however love writing <b>C</b> and <b>Rust</b> when it comes to personal projects.
+			</p>
+
+			<h3 class="text-lg font-bold">Projects</h3>
+			<p class="text-slate-400">
+				I started
+				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/one">one</a>, a
+				compiler for my own programming language which I call "one", although I will admit that I
+				haven't touched it in a while.
 				<br /><br />
-				I love watching anime
-        (<i>read "Japanese cartoons". <a class="text-yellow-100 underline" href="https://www.reddit.com/r/anime/comments/eac7d1/anime_and_cartoons_are_the_same_thing_and_heres/">Yes</a></i>)
-        and talking about it to my friends.
-				I don't care about big titles and mostly only watch the kind I enjoy the most.
-				<br /><br />
-				I have also recently got fond of cats, although I have never had one (yet). I refuse to purchase
-				one for moral reasons. I intent to feed and make a feral into a pet.
+
+				I also recently started
+				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/sanddb">Sand DB</a>,
+				a key-value datastore, backed by LSM tree written in Rust.
+			</p>
+
+			<h3 class="text-lg font-bold">Computing</h3>
+			<p class="text-slate-400">
+				I do all my personal computing on GNU/Linux.
+				I like to limit programs on them to free (as in "freedom") software. Although, I
+				am not Richard Stallman and I occasionally do use proprietory software when neccessary.
+			</p>
+
+			<h3 class="text-lg font-bold">Social</h3>
+			<p class="text-slate-400">
+				I am not good at dealing with people and have moderate social anxiety. In person, you might
+				face awkward moments when interacting with me.
+
+				<br><br>
+
+				Please be patient with me, I need time to get comfortable with people. I can text and e-mail
+				confidently just fine though.
 			</p>
 		</div>
 	</div>
 </div>
-
