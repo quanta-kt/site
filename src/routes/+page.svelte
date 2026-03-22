@@ -1,10 +1,10 @@
 <div class="h-full w-full text-white md:grid md:grid-cols-[minmax(200px,_20%),_1fr]">
 	<div class="sticky top-0 w-full bg-slate-900 md:hidden">
 		<div class="flex flex-1 items-baseline">
-			<div class="border-slate-700 p-3 text-sm font-bold">qnt.moe</div>
+			<div class="border-slate-700 p-3 text-sm font-bold">abhijeet.cv</div>
 			<div class="flex flex-1 flex-grow items-baseline gap-1 p-1">
 				<a class="rounded-md px-2 py-1 text-sm hover:bg-slate-800" href="/">Home</a>
-				<a class="rounded-md px-2 py-1 text-sm hover:bg-slate-800" href="https://blog.qnt.moe"
+				<a class="rounded-md px-2 py-1 text-sm hover:bg-slate-800" href="https://blog.abhijeet.cv"
 					>Blog</a
 				>
 			</div>
@@ -13,19 +13,19 @@
 
 	<div class="hidden h-full flex-col bg-slate-900 md:flex">
 		<div class="flex flex-1 flex-col">
-			<div class="border-b-2 border-slate-700 p-5 text-xl font-bold">qnt.moe</div>
+			<div class="border-b-2 border-slate-700 p-5 text-xl font-bold">abhijeet.cv</div>
 			<div class="flex flex-1 flex-grow flex-col gap-2 p-2">
 				<a class="rounded-md px-4 py-2 hover:bg-slate-800" href="/">Home</a>
-				<a class="rounded-md px-4 py-2 hover:bg-slate-800" href="https://blog.qnt.moe">Blog</a>
+				<a class="rounded-md px-4 py-2 hover:bg-slate-800" href="https://blog.abhijeet.cv">Blog</a>
 			</div>
 		</div>
 	</div>
 
 	<div class="my-10 max-w-screen-md px-5 pb-8 md:mx-auto">
-		<div>
+		<div class="mb-4">
 			<p class="mb-1 text-2xl font-bold text-slate-300">Hi, I am</p>
 
-			<div class="mb-6 flex flex-col items-baseline gap-2 md:flex-row md:gap-4">
+			<div class="mb-2 flex flex-col items-baseline gap-2 md:flex-row md:gap-4">
 				<h2
 					class="bg-[linear-gradient(90deg,_rgba(250,238,165,1)_0%,_rgba(231,132,175,1)_100%)]
           bg-clip-text text-4xl font-bold text-transparent sm:text-5xl lg:text-6xl"
@@ -40,7 +40,16 @@
 					<span class="text-slate-100"> /əbʱɪd͡ʒiːt̪/ </span>
 				</span>
 			</div>
-		</div>
+            <p>
+                Generalist programmer,
+                <dfn title="By traditional definition. Not to be confused with 'cracker'.
+Wikipedia: A person skilled in information technology who achieves goals and solves problems by non-standard means.">
+                    hacker
+                </dfn>
+
+                and tech enthusiast.
+            </p>
+        </div>
 
 		<hr class="mb-8 border-dashed border-slate-500" />
 
