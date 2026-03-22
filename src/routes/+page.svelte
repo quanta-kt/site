@@ -85,7 +85,7 @@ Wikipedia: A person skilled in information technology who achieves goals and sol
 				a key-value datastore, backed by LSM tree written in Rust.
 			</p>
 
-			<h3 class="text-lg font-bold">Computing</h3>
+			<h3 class="text-lg font-bold">Personal computing</h3>
 			<p class="text-slate-400">
 				I do all my personal computing on GNU/Linux.
 				I like to limit programs on them to free (as in "freedom") software. Although, I
