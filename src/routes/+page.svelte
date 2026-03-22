@@ -73,17 +73,27 @@ Wikipedia: A person skilled in information technology who achieves goals and sol
 			</p>
 
 			<h3 class="text-lg font-bold">Projects</h3>
-			<p class="text-slate-400">
-				I started
-				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/one">one</a>, a
-				compiler for my own programming language which I call "one", although I will admit that I
-				haven't touched it in a while.
-				<br /><br />
+			<div class="text-slate-400">
+				<ul>
+				<li>
+				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/sanddb">SandDB</a>:
+				An LSM tree backed key-value store, written in Rust.
+				<br>
+					<ul>
+					<li>Custom file format for data storage.</li>
+					<li>WAL (Write-ahead-logging) based crash recovery.</li>
+					<li>Custom LRU cache implementation.</li>
+					</li>
 
-				I also recently started
-				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/sanddb">Sand DB</a>,
-				a key-value datastore, backed by LSM tree written in Rust.
-			</p>
+				<br>
+
+				<li>
+				<a class="text-yellow-100 underline" href="https://github.com/quanta-kt/one">one</a>:
+				A compiler for a Rust-like language, in C.
+				</li>
+
+				</ul>
+			</div>
 
 			<h3 class="text-lg font-bold">Personal computing</h3>
 			<p class="text-slate-400">

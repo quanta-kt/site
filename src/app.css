@@ -15,3 +15,11 @@ dfn {
     font-style: normal;
 }
 
+ul {
+    list-style: disc;
+    margin-left: 1rem;
+}
+
+li > ul {
+    list-style: circle;
+}
