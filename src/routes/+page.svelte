@@ -3,10 +3,6 @@
 		<div class="flex flex-1 items-baseline">
 			<div class="border-slate-700 p-3 text-sm font-bold">abhijeet.cv</div>
 			<div class="flex flex-1 flex-grow items-baseline gap-1 p-1">
-				<a class="rounded-md px-2 py-1 text-sm hover:bg-slate-800" href="/">Home</a>
-				<a class="rounded-md px-2 py-1 text-sm hover:bg-slate-800" href="https://blog.abhijeet.cv"
-					>Blog</a
-				>
 			</div>
 		</div>
 	</div>
@@ -14,10 +10,6 @@
 	<div class="hidden h-full flex-col bg-slate-900 md:flex">
 		<div class="flex flex-1 flex-col">
 			<div class="border-b-2 border-slate-700 p-5 text-xl font-bold">abhijeet.cv</div>
-			<div class="flex flex-1 flex-grow flex-col gap-2 p-2">
-				<a class="rounded-md px-4 py-2 hover:bg-slate-800" href="/">Home</a>
-				<a class="rounded-md px-4 py-2 hover:bg-slate-800" href="https://blog.abhijeet.cv">Blog</a>
-			</div>
 		</div>
 	</div>
 
